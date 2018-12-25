@@ -1,0 +1,13 @@
+body {font-family: Tahoma, Verdana, Arial, Geneva, sans-serif; color: #000; background: none;}
+
+.pb {page-break-before: always;}
+.noprint {display: none;}
+#content .right {display: none;}
+#content .left {width: 100%;}
+
+#top-logo,
+#logo,
+#top,
+#leftcolumn,
+#actual-cars,
+#copyrights {display: none;}

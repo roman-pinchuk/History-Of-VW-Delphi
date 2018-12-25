@@ -1,0 +1,101 @@
+#top-banner { position: absolute; top: 31px; left: 495px; white-space: nowrap; }
+
+#auto-left { width: 480px; }
+#auto-left .half { width: 240px; float: left;  }
+#auto-left #news-list-wrapper { clear: left; }
+#top-banner img.label { foat: left; }
+#auto-left #menu-int { clear: left; }
+#auto-left #main-news-list { width: 240px; }
+#auto-left #menu, #auto-left #menu2nd { float: left; }
+
+#auto-main { margin: 10px 0 0 15px; }
+#auto-main-i { _margin-left: -3px; }
+#auto-main-i2 { padding-right: 15px; _margin-left: -3px; }
+#auto-main h2 { margin-right: 15px; }
+#auto-main .more { margin: 10px 15px 0 0; clear: both; }
+
+#auto-history {  }
+#auto-history img.hlogo { float: left; margin: 0 15px 0 0; }
+#auto-history .history-wrapper { padding: 10px 15px 0 10px; font-family: Arial, Tahoma, Verdana, Geneva; line-height: 140%; font-size: 75%; }
+#auto-history #auto-wide img.hlogo { margin: 0 0 0 15px; float: right; }
+#auto-history #auto-narrow img.hlogo { margin: 15px 0 0 0; }
+
+#auto-models { clear: both; margin-bottom: 5px; }
+#auto-models a { text-decoration: underline !important; }
+#auto-models .item { float: left; width: 120px; margin-right: 3px; height: 130px; overflow: hidden; }
+#auto-models .item img { float: left; width:120px; height:60px;}
+#auto-models .item h4 { clear: left; margin: 3px 0 0 0; font-family: Arial, Tahoma, Verdana, Geneva, sans-serif; font-size: 12px; line-height: 14px; color: #000; font-weight: bold; }
+#auto-models .item h4 span { font-size: 90%; font-weight: normal; white-space: nowrap; }
+#auto-models .item h4 a, #auto-models .item h4 a { color: #900; }
+#auto-models .item div { margin: 3px 0 10px 0; font-size: 10px; line-height:10px; font-family: Tahoma, Verdana, Arial, Geneva, sans-serif; color: #808080; }
+
+#auto-library { clear: both; margin-bottom: 15px; }
+
+#auto-photo { clear: both; margin-bottom: 15px; width: 50%; float: left; margin-right: -1px; }
+#auto-photo .wr { margin-right: -10px; _display: block; _height: 0; }
+#auto-photo img { float: left; margin: 0 5px 5px 0; width: 100px; height: 75px; border: 0px solid #fff;}
+
+#auto-video { margin-bottom: 15px; width: 50%; float: left; margin-right: -1px; }
+#auto-video .wr { margin-right: -10px; _display: block; _height: 0; }
+#auto-video img { float: left; margin: 0 5px 5px 0; width: 100px; height: 75px; border: 0px solid #fff; }
+
+#auto-comnews { clear: both; margin-bottom: 15px; width: 50%; float:left; margin-right: -1px; }
+#auto-comnews h2 { margin-right: 0; }
+#auto-comnews ul { display: block; margin: 0; padding: 0; padding: 0px 15px 0 15px; }
+#auto-comnews-i { background: url(bgt30000.gif) bottom repeat-x; margin-right: 15px; }
+#auto-comnews li { display: block; margin: 0; padding: 0 0 15px 0; list-style-type: none; font-family: Arial, Tahoma, Verdana, Geneva, sans-serif; font-size: 11px; color:#808080;}
+#auto-comnews li a { color: #900; font-size: 13px; }
+
+#auto-forum { float: left; width: 50%; margin-bottom: 15px; }
+#auto-forum h2 { margin-right: 0; }
+#auto-forum ul { display: block; margin: 0; padding: 0px 15px 0 15px; }
+#auto-forum-i { background: url(bgt30000.gif) bottom repeat-x; margin-right: 15px; }
+#auto-forum li { display: block; margin: 0; padding: 0 0 15px 0; list-style-type: none; font-family: Arial, Tahoma, Verdana, Geneva, sans-serif; font-size: 11px; color:#808080;}
+#auto-forum li a { color: #900; font-size: 13px; }
+
+#auto-closeup { float: left; width: 50%; margin-bottom: 15px; margin-right: -1px; }
+#auto-closeup h2 { margin-right: 0; }
+#auto-closeup ul { display: block; margin: 0; padding: 0px 15px 0 15px; }
+#auto-closeup-i { background: url(bgt30000.gif) bottom repeat-x; margin-right: 15px; }
+#auto-closeup li { display: block; margin: 0; padding: 0 0 15px 0; list-style-type: none; font-family: Arial, Tahoma, Verdana, Geneva, sans-serif; font-size: 11px; color: #808080; }
+#auto-closeup li a { color: #900; font-size: 13px; }
+
+#auto-opinions { float: left; width: 50%; margin-bottom: 15px; margin-right: -1px; }
+#auto-opinions h2 { margin-right: 0; }
+#auto-opinions ul { display: block; margin: 0; padding: 0px 15px 0 15px; }
+#auto-opinions-i { background: url(bgt30000.gif) bottom repeat-x; margin-right: 15px; }
+#auto-opinions li { display: block; margin: 0; padding: 0 0 15px 0; list-style-type: none; font-family: Arial, Tahoma, Verdana, Geneva, sans-serif; font-size: 11px; color: #808080; }
+#auto-opinions li a { color: #900; font-size: 13px; }
+#auto-opinions li div { margin-top: 5px; }
+
+#history-logo { float: left; margin-right: 30px; }
+#history-title { margin-top: 25px; }
+
+#smodel { display: block; margin: 0; padding: 0; }
+#smodel li { display: block; margin: 0; float: left; clear: left; padding: 2px 15px 2px 15px; list-style-type: none; font-family: Arial, Tahoma, Verdana, Geneva; line-height: 140%; font-size: 12px; white-space: nowrap; }
+#smodel li.active { padding: 0 !important; }
+#smodel li.active b { background: #fff; font-weight: bold; color:#000; display: block; padding: 2px 15px 2px 15px; _height: 0; float: left; }
+#smodel li a { color: #900; }
+
+#price-chart { font-size: 12px; }
+#price-chart td { vertical-align: top; height: 30px; overflow: hidden; }
+#price-chart th { text-align: left; vertical-align: middle; height: 29px; padding-right: 5px; padding-left: 5px; font-family: Arial, Tahoma, Verdana, Geneva, sans-serif; font-size: 13px; }
+#price-chart th.first { height: 49px; }
+#price-chart .caption { border-bottom: 1px solid #ccc; }
+#price-chart th a { color: #900; }
+#price-chart .legend { font-size: 11px; overflow: hidden; border-bottom: 1px solid #ccc; height: 29px; }
+#price-chart .legend td { height: 49px; line-height: 0; z-index: 10000; overflow: visible; }
+#price-chart .legend img { position: relative; left: -3px; z-index: 1000000; }
+#price-chart .ruler td { border-left: 1px solid #999; filter: alpha(opacity=25); -moz-opacity: 0.25; opacity: 0.25; overflow: hidden; }
+#price-chart .rwrapper { position: relative; }
+#price-chart .ruler { position: absolute; top: 37px; }
+
+#price-chart .hrwrapper { position: relative; padding-top: 12px; }
+#price-chart .hruler td { position: absolute; height: 10px; }
+
+#price-chart tr.even td, #price-chart tr.even th { background: #fff; }
+
+#price-chart .barwrapper td { height: 29px; }
+#price-chart .barwrapper { border-bottom: 1px solid #ccc; }
+#price-chart .bar { background: #FFCC33 !important; }
+#price-chart .bartitle { position: absolute; font-family: tahoma, arial; font-size: 10px; font-weight: normal; color: #000; padding: 9px 0 0 4px; white-space: nowrap; z-index: 1000000; } 
