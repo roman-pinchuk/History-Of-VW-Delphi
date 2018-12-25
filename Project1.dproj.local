@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.03.03 16:09:43.876.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=P:\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2010.03.03 16:09:43.907.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=P:\Курсовой проект\Unit1.dfm</Transaction>
+    <Transaction>2010.03.03 16:09:46.897.dproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.dproj=P:\Курсовой проект\Project1.dproj</Transaction>
+    <Transaction>2010.03.03 17:22:23.415.pas,P:\Курсовой проект\Unit2.pas=</Transaction>
+    <Transaction>2010.03.03 17:22:23.416.dfm,P:\Курсовой проект\Unit2.dfm=</Transaction>
+    <Transaction>2010.03.09 15:55:41.171.pas,Z:\Курсовой проект\Unit7.pas=</Transaction>
+    <Transaction>2010.03.09 15:55:41.171.dfm,Z:\Курсовой проект\Unit7.dfm=</Transaction>
+    <Transaction>2010.03.10 18:17:03.639.pas,C:\Users\Administrator\Desktop\Курсовой проект\Unit8.pas=</Transaction>
+    <Transaction>2010.03.10 18:17:03.639.dfm,C:\Users\Administrator\Desktop\Курсовой проект\Unit8.dfm=</Transaction>
+    <Transaction>2010.03.17 00:08:38.007.pas,C:\Users\Administrator\Documents\RAD Studio\6.0\Imports\ShockwaveFlashObjects_TLB.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
